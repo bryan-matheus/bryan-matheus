@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a Front-End Developer and currently majoring in Systems Analysis and Development
+I'm a Front-End Developer and currently graduating in Systems Analysis and Development
 
 ## Contact me
 
