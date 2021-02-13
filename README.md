@@ -93,14 +93,11 @@ I'm Bryan Matheus, a junior full stack engineer, self-proclaimed designer who sp
 </details>
 <br>
 
-## 📣 How about an Office quote before you go?
+## 📣 How about an quote before you go?
 
-> {office_quote}
->
-> <p>{office_character}</p>
-
-_Quote requested from [The Office API](https://www.officeapi.dev/)_
-
-Check back at the top of the hour for a new quote!
+> Believe you
+> can and you're
+> halfway there
+> <p>Theodore Roosevelt</p>
 
 <br>
