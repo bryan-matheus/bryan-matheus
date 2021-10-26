@@ -20,8 +20,6 @@ I'm Bryan Matheus, a junior full stack engineer, self-proclaimed designer who sp
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bryan-matheus&repo=picpay-clone&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<br>
-
 <a href="https://github.com/bryan-matheus/snake-game">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bryan-matheus&repo=snake-game&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
