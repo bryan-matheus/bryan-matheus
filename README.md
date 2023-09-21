@@ -7,8 +7,6 @@
 
 👋 Hi there!
 
-I'm Bryan Matheus, a full stack engineer, self-proclaimed designer who specializes in front-end. Currently in graduation.
-
 <!-- Pinned Repositories -->
 <br>
 
