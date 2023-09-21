@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **my personal portfólio**<br>🌱 I’m currently learning **Go, Java**<br>👯 I’m looking to collaborate on **new projects**<br>👨‍💻 All of my projects are available at [github.com/bryan-matheus](github.com/bryan-matheus)<br>📝 I regularly write articles on [bmat.fyi/blog](bmat.fyi/blog)<br>💬 Ask me about **JavaScript, TypeScript, Node.js, Nest.js, React, Next.js, Go**<br>📫 How to reach me **bryan.matheusbmf@gmail.com**<br>⚡ Fun fact **I love dogs**
+🔭 I’m currently working on **my personal portfólio**<br>🌱 I’m currently learning **Go, Java, Crystal**<br>👯 I’m looking to collaborate on **new projects**<br>👨‍💻 All of my projects are available at [github.com/bryan-matheus](github.com/bryan-matheus)<br>📝 I regularly write articles on [bmat.fyi/blog](bmat.fyi/blog)<br>💬 Ask me about **JavaScript, TypeScript, Node.js, Nest.js, React, Next.js, Go**<br>📫 How to reach me **bryan.matheusbmf@gmail.com**<br>⚡ Fun fact **I love dogs**
 
 
 ## 🌐 Socials:
